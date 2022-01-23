@@ -36,4 +36,3 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 `}
 
 exports.infobot = infobot
- 
