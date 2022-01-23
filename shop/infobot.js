@@ -30,7 +30,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♈ YouTube : bit.ly/ytkayshelby
 ♉ Github : bit.ly/gtkayshelby
 ♊ Instagram : bit.ly/igkayryujin
-♌ Telegram : t.me/Dzikr_shelby
+♌ Telegram : t.me/Dzikry_shelby
 ♎ Ch Telegram : t.me/Dzikry_shelby
 ♏ WhatsApp : bit.ly/wakayshelby
 `}
